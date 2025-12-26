@@ -45,6 +45,14 @@ Sou especialista em arquiteturas modernas, com foco rigoroso em **Clean Code e t
 
 ---
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielRagonha/GabrielRagonha/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielRagonha/GabrielRagonha/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielRagonha/GabrielRagonha/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 🚀 Experiência e Impacto
 
 Atualmente na **Eficaz Marketing**, lidero o desenvolvimento de soluções complexas com foco em entrega de valor real:
