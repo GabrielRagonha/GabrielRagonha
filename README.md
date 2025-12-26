@@ -20,7 +20,11 @@
   </a>
 </p>
 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielRagonha/GabrielRagonha/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielRagonha/GabrielRagonha/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielRagonha/GabrielRagonha/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -45,14 +49,6 @@ Sou especialista em arquiteturas modernas, com foco rigoroso em **Clean Code e t
 
 ---
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielRagonha/GabrielRagonha/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielRagonha/GabrielRagonha/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielRagonha/GabrielRagonha/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ## 🚀 Experiência e Impacto
 
 Atualmente na **Eficaz Marketing**, lidero o desenvolvimento de soluções complexas com foco em entrega de valor real:
@@ -61,6 +57,12 @@ Atualmente na **Eficaz Marketing**, lidero o desenvolvimento de soluções compl
 * 📈 **Performance:** Aumento de **25% no tráfego orgânico** através de otimização de Core Web Vitals e SEO técnico.
 * 🛡️ **Qualidade:** Redução de **15% na incidência de bugs** em produção com testes automatizados e Code Reviews rigorosos.
 * 📚 **Documentação:** Aceleração do onboarding de novos devs em **30%** através de documentação técnica estruturada (Swagger).
+
+<p>
+  <a href="https://github.com/gabrod-eficaz" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 <div align="center">
   <i>"Por hoje é só, pessoal."</i>
