@@ -5,18 +5,20 @@
 ### Desenvolvedor Full Stack Pleno
 **Next.js • Laravel • TypeScript**
 
+🚀 **[Confira meu Portfólio Interativo 3D](https://portfolio-gabriel-ragonha.vercel.app/)**
+
 <p>
   <a href="https://www.instagram.com/gabriel_ragonha" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.twitch.tv/gcrr_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-  </a>
   <a href="https://linkedin.com/in/gabrielragonha" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:gabrielcesaar@hotmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://portfolio-gabriel-ragonha.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO%203D-%23CD7C2E?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
@@ -46,6 +48,13 @@ Sou especialista em arquiteturas modernas, com foco rigoroso em **Clean Code e t
 | ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
 
 > **Outras Skills:** SOLID, DDD, TDD (Pest/Jest/PHPUnit), CI/CD, Git Flow.
+
+---
+
+## 🎨 Portfólio Interativo
+Recentemente desenvolvi uma experiência 3D imersiva para consolidar meus conhecimentos em **Three.js, GSAP e Engenharia Criativa**.
+
+[<img src="https://img.shields.io/badge/CLIQUE%20AQUI%20PARA%20ACESSAR-EXPERI%C3%8ANCIA%20INTERATIVA-orange?style=for-the-badge&logo=react">](https://portfolio-gabriel-ragonha.vercel.app/)
 
 ---
 
