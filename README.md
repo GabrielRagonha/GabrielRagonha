@@ -62,7 +62,7 @@ Recentemente desenvolvi uma experiência 3D imersiva para consolidar meus conhec
 
 Atualmente na **Eficaz Marketing**, lidero o desenvolvimento de soluções complexas com foco em entrega de valor real:
 
-* 🏆 **SaaS & E-commerce:** Desenvolvimento de plataformas robustas (Next.js + Laravel).
+* 🏆 **SaaS & E-commerce:** Desenvolvimento de plataformas robustas.
 * 📈 **Performance:** Aumento de **25% no tráfego orgânico** através de otimização de Core Web Vitals e SEO técnico.
 * 🛡️ **Qualidade:** Redução de **15% na incidência de bugs** em produção com testes automatizados e Code Reviews rigorosos.
 * 📚 **Documentação:** Aceleração do onboarding de novos devs em **30%** através de documentação técnica estruturada (Swagger).
