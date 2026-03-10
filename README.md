@@ -60,7 +60,7 @@ Recentemente desenvolvi uma experiência 3D imersiva para consolidar meus conhec
 
 ## 🚀 Experiência e Impacto
 
-Atualmente na **Eficaz Marketing**, lidero o desenvolvimento de soluções complexas com foco em entrega de valor real:
+Na **Eficaz Marketing**, liderei o desenvolvimento de soluções complexas com foco em entrega de valor real:
 
 * 🏆 **SaaS & E-commerce:** Desenvolvimento de plataformas robustas.
 * 📈 **Performance:** Aumento de **25% no tráfego orgânico** através de otimização de Core Web Vitals e SEO técnico.
